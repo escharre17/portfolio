@@ -19,6 +19,6 @@ There are three sections of this portfolio: data analysis work, software builds,
 + **Data Report for Geo-Sales:** This shows I can build data reports with minimal data and my proficiency in Excel.
 + **Process Flow for Simple Application Data Flow:** This shows my system process flow for data transfer using UML standards.
 + **System Cloud Architecture for a Future State Program:**  This shows my proficiency in modeling system architecture and my design skills in Viso with cloud implementation.
-+ **Standard Operating Procedure for new Software:** Shows documentation skills for walking a general user through a process such as creating an account for a new social media. 
++ **Standard Operating Procedure for Application Functions:** Shows documentation skills for walking a general user through a process such as creating an account for a new social media. 
 
       
