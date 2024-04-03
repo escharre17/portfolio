@@ -2,7 +2,7 @@ This is the portfolio of Elizabeth Scharre.
 There are three sections of this portfolio: data analysis work, software builds, and documentation work (process flows, network diagrams, etc). Below are the details of each section to clearly define what each project is.
 
 Data Analysis Work:
-      Data Scrapping Project - Data was scrapped from a site and analysis was performed to show the basic analyst skills that I have mastered. \n
+      Data Scrapping Project - Data was scrapped from a site and analysis was performed to show the basic analyst skills that I have mastered. 
       Exploratory Data Analysis - This project shows that I can perform an EDA to determine patterns and characteristics. This project also shows modeling and forecasting skills.
       Data Visualization - Using COVID-19 Data, a real project I worked on for the DOHMH of New York, I show various models, forecasts, and other visualizations I created to show how                               COVID-19 affected New York City.
 
