@@ -12,7 +12,7 @@ There are three sections of this portfolio: data analysis work, software builds,
 + **Calculator:** This shows my proficiency in C.
 + **To-Do List:** This shows my proficiency in Java Script
 + **Daily Reminder:** This shows proficiency in XML and Android Studio.
-+ **Weather Forecasting:** Python
++ **Message Forecasting:** This shows my proficiency in R. 
 + **Train Ticketing:** SDK and SQL
 
 ### Documentation Work:
